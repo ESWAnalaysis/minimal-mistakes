@@ -7,37 +7,37 @@ title: "Eren's Professional Portfolio"
 title_separator: "-"
 subtitle: "Data Analysis and Business Intelligence"
 name: "Eren"
-description: "Welcome to my professional portfolio. Here, I showcase my skills in data analysis and business intelligence, featuring projects and insights from my career."
-url: "https://yourusername.github.io"  # Replace with your actual GitHub username
+description: "Welcome to my professional portfolio. Here, I showcase my expertise in data analysis and business intelligence, featuring projects and insights from my career in financial analysis and my transition to business intelligence."
+url: "https://eren.github.io"  # Replace with your actual GitHub username
 baseurl: ""  # Typically empty unless you're hosting in a subdirectory
-repository: "yourusername/yourrepository"  # Replace with your GitHub username and repo name
+repository: "eren/eren-portfolio"  # Replace with your GitHub username and repo name
 logo: "/assets/images/logo.png"  # Path to your logo image
 masthead_title: "Eren's Portfolio"
 
 # Social Sharing
 twitter:
-  username: "yourusername"  # Replace with your Twitter username
+  username: "eren"  # Replace with your Twitter username if you have one
 facebook:
-  username: "yourusername"  # Replace with your Facebook username
+  username: "eren"  # Replace with your Facebook username if you have one
 og_image: "/assets/images/og_image.jpg"  # Path to an image for social sharing
 
 # Site Author
 author:
   name: "Eren"
   avatar: "/assets/images/bio-photo.jpg"  # Path to your avatar image
-  bio: "I am an expert in Business Intelligence and Data Analysis with a passion for transforming data into actionable insights."
+  bio: "Passionate about turning data into actionable insights, I am a financial analyst transitioning to a career in business intelligence, focusing on data visualization and analysis."
   location: "Toronto, Canada"
-  email: "your.email@example.com"
+  email: "eren@email.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.email@example.com"
+      url: "mailto:eren@email.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://linkedin.com/in/eren"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/eren"
 
 # Analytics
 analytics:
@@ -49,7 +49,7 @@ analytics:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "yourshortname"  # Replace with your Disqus shortname
+    shortname: "erensportfolio"  # Replace with your Disqus shortname
 
 # SEO Related
 google_site_verification: "your_verification_token"
